@@ -80,6 +80,7 @@ while (1) {
 	else {
 		cout << "Menu Tidak Tersedia, Silahkan Masukan ulang" << endl;
 	}
+}
 	
 while (1) {
 	cout << "Nomor Minuman :";
@@ -108,6 +109,7 @@ while (1) {
 	else {
 		cout << "Menu Tidak Tersedia, Silahkan Masukan ulang" << endl;
 	}
+}
 	
 cout << char(214);
 for (int x = 0; x < 33; x++) {
@@ -161,6 +163,7 @@ while (1) {
 	else {
 		cout << "Menu Tidak Tersedia, Silahkan Masukan ulang" << endl;
 	}
+}
 	
 //Output Pesanan
 
